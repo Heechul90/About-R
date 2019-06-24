@@ -1,0 +1,2 @@
+- R 언어_문자(text) 넣기, mtext()
+http://blog.naver.com/PostView.nhn?blogId=dic1224&logNo=80208415824
