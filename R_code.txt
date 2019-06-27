@@ -1,2 +1,5 @@
 - R 언어_문자(text) 넣기, mtext()
 http://blog.naver.com/PostView.nhn?blogId=dic1224&logNo=80208415824
+
+- R 행열 이름 바꾸기
+https://m.blog.naver.com/PostView.nhn?blogId=urimee_e&logNo=220684956595&proxyReferer=https%3A%2F%2Fwww.google.com%2F
